@@ -1,26 +1,26 @@
 # Bash-Scripts
 
 # Enconvert_w_onlinecheck
-* [Conditions](../Enconvert_w_onlinecheck.md)
-* [Implementation](../enconvert.cmd)
+* [Conditions](../master/Enconvert_w_onlinecheck)
+* [Implementation](../master/enconvert.cmd)
 
 # Imagemagic
-* [Conditions](../Imagemagick.md)
-* [Implementation](../addtext.sh)
+* [Conditions](../master/Imagemagick)
+* [Implementation](../master/addtext.sh)
 
 # ClearPath
-* [Conditions](../ClearPath.md)
-* [Implementation](../clear.sh)
+* [Conditions](../master/ClearPath)
+* [Implementation](../master/clear.sh)
 
 # LogAnalyzer
-* [Conditions](../LogAnalyzer.md)
-* [Implementation](../logger.sh)
+* [Conditions](../master/LogAnalyzer)
+* [Implementation](../master/logger.sh)
 
 # ShardCollect
-* [Conditions](../ShardCollect.md)
-* [Implementation](../scriptTo.sh)
+* [Conditions](../master/ShardCollect)
+* [Implementation](../master/scriptTo.sh)
 
 # NormConf
-* [Conditions](../NormConf.md)
-* [Implementation](../norm1.sh)
+* [Conditions](../master/NormConf)
+* [Implementation](../master/norm1.sh)
 
